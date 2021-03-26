@@ -1,0 +1,1362 @@
+[
+    {
+        "name": "University of Aberdeen",
+        "website": "http://www.abdn.ac.uk/"
+    },
+    {
+        "name": "University of Wales, Aberystwyth",
+        "website": "http://www.aber.ac.uk/"
+    },
+    {
+        "name": "University of Abertay Dundee",
+        "website": "http://www.abertay.ac.uk/"
+    },
+    {
+        "name": "American InterContinental University - London",
+        "website": "http://www.aiuniv.edu/"
+    },
+    {
+        "name": "Aga Khan University",
+        "website": "http://www.aku.edu/"
+    },
+    {
+        "name": "Anglia Ruskin University",
+        "website": "http://www.anglia.ac.uk/"
+    },
+    {
+        "name": "Aston University",
+        "website": "http://www.aston.ac.uk/"
+    },
+    {
+        "name": "The American University in London",
+        "website": "http://www.aul.edu/"
+    },
+    {
+        "name": "University of Wales, Bangor",
+        "website": "http://www.bangor.ac.uk/"
+    },
+    {
+        "name": "University of Bath",
+        "website": "http://www.bath.ac.uk/"
+    },
+    {
+        "name": "Birkbeck College, University of London",
+        "website": "http://www.bbk.ac.uk/"
+    },
+    {
+        "name": "British College of Osteopathic Medicine",
+        "website": "http://www.bcom.ac.uk/"
+    },
+    {
+        "name": "Birmingham City University",
+        "website": "http://www.bcu.ac.uk/"
+    },
+    {
+        "name": "University of Bedfordshire",
+        "website": "http://www.beds.ac.uk/"
+    },
+    {
+        "name": "University of Birmingham",
+        "website": "http://www.bham.ac.uk/"
+    },
+    {
+        "name": "University of Bolton",
+        "website": "http://www.bolton.ac.uk/"
+    },
+    {
+        "name": "Bournemouth University",
+        "website": "http://www.bournemouth.ac.uk/"
+    },
+    {
+        "name": "University of Bradford",
+        "website": "http://www.brad.ac.uk/"
+    },
+    {
+        "name": "London School of Jewish Studies",
+        "website": "http://www.brijnet.org/lsjs/"
+    },
+    {
+        "name": "University of Bristol",
+        "website": "http://www.bris.ac.uk/"
+    },
+    {
+        "name": "Oxford Brookes University",
+        "website": "http://www.brookes.ac.uk/"
+    },
+    {
+        "name": "Brunel University Uxbridge",
+        "website": "http://www.brunel.ac.uk/"
+    },
+    {
+        "name": "University of Brighton",
+        "website": "http://www.bton.ac.uk/"
+    },
+    {
+        "name": "University of Buckingham",
+        "website": "http://www.buck.ac.uk/"
+    },
+    {
+        "name": "Buckinghamshire New University",
+        "website": "http://www.bucks.ac.uk/"
+    },
+    {
+        "name": "University of Cambridge",
+        "website": "http://www.cam.ac.uk/"
+    },
+    {
+        "name": "Camberwell College of Arts",
+        "website": "http://www.camb.linst.ac.uk/"
+    },
+    {
+        "name": "Canterbury Christ Church University",
+        "website": "http://www.canterbury.ac.uk/"
+    },
+    {
+        "name": "Cardiff University",
+        "website": "http://www.cardiff.ac.uk/"
+    },
+    {
+        "name": "Chelsea College of Art and Design",
+        "website": "http://www.chelsea.linst.ac.uk/"
+    },
+    {
+        "name": "University of Chester",
+        "website": "http://www.chester.ac.uk/"
+    },
+    {
+        "name": "City University",
+        "website": "http://www.city.ac.uk/"
+    },
+    {
+        "name": "Courtauld Institute of Art, University of London",
+        "website": "http://www.courtauld.ac.uk/"
+    },
+    {
+        "name": "Coventry University",
+        "website": "http://www.coventry.ac.uk/"
+    },
+    {
+        "name": "Cranfield University",
+        "website": "http://www.cranfield.ac.uk/"
+    },
+    {
+        "name": "Central Saint Martins College of Art & Design",
+        "website": "http://www.csm.linst.ac.uk/"
+    },
+    {
+        "name": "University of Derby",
+        "website": "http://www.derby.ac.uk/"
+    },
+    {
+        "name": "De Montfort University Leicester",
+        "website": "http://www.dmu.ac.uk/"
+    },
+    {
+        "name": "University of Dundee",
+        "website": "http://www.dundee.ac.uk/"
+    },
+    {
+        "name": "University of Durham",
+        "website": "http://www.dur.ac.uk/"
+    },
+    {
+        "name": "Edge Hill University",
+        "website": "http://www.edgehill.ac.uk/"
+    },
+    {
+        "name": "University of Edinburgh",
+        "website": "http://www.ed.ac.uk/"
+    },
+    {
+        "name": "European School of Economics",
+        "website": "http://www.eselondon.ac.uk/"
+    },
+    {
+        "name": "University of Essex",
+        "website": "http://www.essex.ac.uk/"
+    },
+    {
+        "name": "University of Exeter",
+        "website": "http://www.ex.ac.uk/"
+    },
+    {
+        "name": "Falmouth University",
+        "website": "http://www.falmouth.ac.uk/"
+    },
+    {
+        "name": "Glasgow Caledonian University",
+        "website": "http://www.gcal.ac.uk/"
+    },
+    {
+        "name": "University of Glasgow",
+        "website": "http://www.gla.ac.uk/"
+    },
+    {
+        "name": "University of Glamorgan",
+        "website": "http://www.glam.ac.uk/"
+    },
+    {
+        "name": "University of Gloucestershire",
+        "website": "http://www.glos.ac.uk/"
+    },
+    {
+        "name": "Goldsmiths College, University of London",
+        "website": "http://www.gold.ac.uk/"
+    },
+    {
+        "name": "University of Greenwich",
+        "website": "http://www.gre.ac.uk/"
+    },
+    {
+        "name": "Glasgow School of Art",
+        "website": "http://www.gsa.ac.uk/"
+    },
+    {
+        "name": "University of Halifax, Birmingham Campus",
+        "website": "http://www.halifaxuni.ac/"
+    },
+    {
+        "name": "University of Hertfordshire",
+        "website": "http://www.herts.ac.uk/"
+    },
+    {
+        "name": "Heythrop College, University of London",
+        "website": "http://www.heythrop.ac.uk/"
+    },
+    {
+        "name": "Liverpool Hope University College",
+        "website": "http://www.hope.ac.uk/"
+    },
+    {
+        "name": "University of Huddersfield",
+        "website": "http://www.hud.ac.uk/"
+    },
+    {
+        "name": "University of Hull",
+        "website": "http://www.hull.ac.uk/"
+    },
+    {
+        "name": "Huron University USA in London",
+        "website": "http://www.huron.ac.uk/"
+    },
+    {
+        "name": "Heriot-Watt University",
+        "website": "http://www.hw.ac.uk/"
+    },
+    {
+        "name": "Imperial College London",
+        "website": "http://www.imperial.ac.uk/"
+    },
+    {
+        "name": "ifs University College",
+        "website": "http://www.ifslearning.ac.uk/"
+    },
+    {
+        "name": "Institue of Historical Research, University of London",
+        "website": "http://ihr.sas.ac.uk/"
+    },
+    {
+        "name": "Institute of Commonwealth Studies, University of London",
+        "website": "http://www.ihr.sas.ac.uk/ics/"
+    },
+    {
+        "name": "Institute of Education, University of London",
+        "website": "http://www.ioe.ac.uk/"
+    },
+    {
+        "name": "International Colleges of Islamic Science",
+        "website": "http://www.islamiccolleges.com/"
+    },
+    {
+        "name": "King's College London, University of London",
+        "website": "http://www.kcl.ac.uk/"
+    },
+    {
+        "name": "Keele University",
+        "website": "http://www.keele.ac.uk/"
+    },
+    {
+        "name": "Kingston University",
+        "website": "http://www.kingston.ac.uk/"
+    },
+    {
+        "name": "International Centre for Isclamic Science",
+        "website": "http://www.kolieh.com/"
+    },
+    {
+        "name": "University of Wales, Lampeter",
+        "website": "http://www.lamp.ac.uk/"
+    },
+    {
+        "name": "University of Lancaster",
+        "website": "http://www.lancs.ac.uk/"
+    },
+    {
+        "name": "Loughborough University",
+        "website": "http://www.lboro.ac.uk/"
+    },
+    {
+        "name": "London Business School",
+        "website": "http://www.lbs.lon.ac.uk/"
+    },
+    {
+        "name": "London College of Science & Technology",
+        "website": "http://www.lcst.ac/"
+    },
+    {
+        "name": "University of Leicester",
+        "website": "http://www.le.ac.uk/"
+    },
+    {
+        "name": "University of Leeds",
+        "website": "http://www.leeds.ac.uk/"
+    },
+    {
+        "name": "London Guildhall University",
+        "website": "http://www.lgu.ac.uk/"
+    },
+    {
+        "name": "London Institute of Management and Technology",
+        "website": "http://www.limt.co.uk/"
+    },
+    {
+        "name": "University of Lincoln",
+        "website": "http://www.lincoln.ac.uk/"
+    },
+    {
+        "name": "University of Liverpool",
+        "website": "http://www.liv.ac.uk/"
+    },
+    {
+        "name": "Liverpool John Moores University",
+        "website": "https://www.ljmu.ac.uk/"
+    },
+    {
+        "name": "Leeds Metropolitan University",
+        "website": "http://www.lmu.ac.uk/"
+    },
+    {
+        "name": "University of London",
+        "website": "http://www.lon.ac.uk/"
+    },
+    {
+        "name": "London Metropolitan University",
+        "website": "http://www.londonmet.ac.uk/"
+    },
+    {
+        "name": "London School of Business & Finance",
+        "website": "http://www.lsbf.org.uk/"
+    },
+    {
+        "name": "London School of Economics and Political Science, University of London",
+        "website": "http://www.lse.ac.uk/"
+    },
+    {
+        "name": "London School of Hygiene & Tropical Medicine, University of London",
+        "website": "http://www.lshtm.ac.uk/"
+    },
+    {
+        "name": "University of Manchester",
+        "website": "http://www.manchester.ac.uk/"
+    },
+    {
+        "name": "Middlesex University",
+        "website": "http://www.mdx.ac.uk/"
+    },
+    {
+        "name": "Imperial College School of Medicine",
+        "website": "http://www.med.ic.ac.uk/"
+    },
+    {
+        "name": "The Manchester Metropolitan University",
+        "website": "http://www.mmu.ac.uk/"
+    },
+    {
+        "name": "Napier University",
+        "website": "http://www.napier.ac.uk/"
+    },
+    {
+        "name": "University of Newcastle-upon-Tyne",
+        "website": "http://www.ncl.ac.uk/"
+    },
+    {
+        "name": "University of Wales, Newport",
+        "website": "http://www.newport.ac.uk/"
+    },
+    {
+        "name": "Newport International University",
+        "website": "http://www.niu.org.uk/"
+    },
+    {
+        "name": "University of Northampton",
+        "website": "http://www.northampton.ac.uk/"
+    },
+    {
+        "name": "University of Nottingham",
+        "website": "http://www.nottingham.ac.uk/"
+    },
+    {
+        "name": "Nottingham Trent University",
+        "website": "http://www.ntu.ac.uk/"
+    },
+    {
+        "name": "Open University",
+        "website": "http://www.open.ac.uk/"
+    },
+    {
+        "name": "University of Oxford",
+        "website": "http://www.ox.ac.uk/"
+    },
+    {
+        "name": "University of Paisley",
+        "website": "http://www.paisley.ac.uk/"
+    },
+    {
+        "name": "University of Plymouth",
+        "website": "http://www.plymouth.ac.uk/"
+    },
+    {
+        "name": "University of Portsmouth",
+        "website": "http://www.port.ac.uk/"
+    },
+    {
+        "name": "Queen Mary, University of London",
+        "website": "http://www.qmul.ac.uk/"
+    },
+    {
+        "name": "The Queen's University Belfast",
+        "website": "http://www.qub.ac.uk/"
+    },
+    {
+        "name": "Royal Academy of Music, University of London",
+        "website": "http://www.ram.ac.uk/"
+    },
+    {
+        "name": "Royal College of Art",
+        "website": "http://www.rca.ac.uk/"
+    },
+    {
+        "name": "Royal College of Music, University of London",
+        "website": "http://www.rcm.ac.uk/"
+    },
+    {
+        "name": "University of Reading",
+        "website": "http://www.rdg.ac.uk/"
+    },
+    {
+        "name": "Royal Free Hospital School of Medicine, University of London",
+        "website": "http://www.rfhsm.ac.uk/"
+    },
+    {
+        "name": "The Robert Gordon University",
+        "website": "http://www.rgu.ac.uk/"
+    },
+    {
+        "name": "Royal Holloway and Bedford New College",
+        "website": "http://www.royalholloway.ac.uk/"
+    },
+    {
+        "name": "Richmond University - The American International University in London",
+        "website": "http://www.richmond.ac.uk/"
+    },
+    {
+        "name": "Roehampton University of Surrey",
+        "website": "http://www.roehampton.ac.uk/"
+    },
+    {
+        "name": "University of Salford",
+        "website": "http://www.salford.ac.uk/"
+    },
+    {
+        "name": "Institute of Advanced Legal Studies, University of London",
+        "website": "http://www.sas.ac.uk/ials/"
+    },
+    {
+        "name": "Institute of Classical Studies, University of London",
+        "website": "http://www.sas.ac.uk/icls/"
+    },
+    {
+        "name": "Institute of Germanic Studies, University of London",
+        "website": "http://www.sas.ac.uk/igs/"
+    },
+    {
+        "name": "Institute of Latin American Studies, University of London",
+        "website": "http://www.sas.ac.uk/ilas/"
+    },
+    {
+        "name": "Warburg Institute, University of London",
+        "website": "http://www.sas.ac.uk/warburg/"
+    },
+    {
+        "name": "South Bank University",
+        "website": "http://www.sbu.ac.uk/"
+    },
+    {
+        "name": "Schiller International University, London",
+        "website": "http://www.schillerlondon.ac.uk/"
+    },
+    {
+        "name": "Stratford College London",
+        "website": "http://www.sclondon.ac/"
+    },
+    {
+        "name": "Saint George's Hospital Medical School, University of London",
+        "website": "http://www.sghms.ac.uk/"
+    },
+    {
+        "name": "University of Sheffield",
+        "website": "http://www.shef.ac.uk/"
+    },
+    {
+        "name": "Sheffield Hallam University",
+        "website": "http://www.shu.ac.uk/"
+    },
+    {
+        "name": "Swansea Metropolitan University",
+        "website": "http://www.smu.ac.uk/"
+    },
+    {
+        "name": "School of Oriental and African Studies, University of London",
+        "website": "http://www.soas.ac.uk/"
+    },
+    {
+        "name": "Southampton Solent University",
+        "website": "http://www.solent.ac.uk/"
+    },
+    {
+        "name": "Sotheby\u00b4s Institute of Art - London",
+        "website": "http://www.sothebysinstitutelondon.com/"
+    },
+    {
+        "name": "University of Southampton",
+        "website": "http://www.southampton.ac.uk/"
+    },
+    {
+        "name": "School of Slavonic and East European Studies, University of London",
+        "website": "http://www.ssees.ac.uk/"
+    },
+    {
+        "name": "Staffordshire University",
+        "website": "http://www.staffs.ac.uk/"
+    },
+    {
+        "name": "University of St. Andrews",
+        "website": "https://www.st-andrews.ac.uk/"
+    },
+    {
+        "name": "University of Stirling",
+        "website": "http://www.stir.ac.uk/"
+    },
+    {
+        "name": "St.Patrick's International College, London",
+        "website": "http://www.st-patricks.ac.uk/"
+    },
+    {
+        "name": "University of Strathclyde",
+        "website": "http://www.strath.ac.uk/"
+    },
+    {
+        "name": "University of Sunderland",
+        "website": "http://www.sunderland.ac.uk/"
+    },
+    {
+        "name": "University of Surrey",
+        "website": "http://www.surrey.ac.uk/"
+    },
+    {
+        "name": "University of Sussex",
+        "website": "http://www.sussex.ac.uk/"
+    },
+    {
+        "name": "University of Wales, Swansea",
+        "website": "http://www.swan.ac.uk/"
+    },
+    {
+        "name": "Trinity College of Music",
+        "website": "http://www.tcm.ac.uk/"
+    },
+    {
+        "name": "University of Teesside",
+        "website": "http://www.tees.ac.uk/"
+    },
+    {
+        "name": "Trinity College Carmarthen",
+        "website": "http://www.trinity-cm.ac.uk/"
+    },
+    {
+        "name": "Thames Valley University",
+        "website": "http://www.tvu.ac.uk/"
+    },
+    {
+        "name": "University College London, University of London",
+        "website": "http://www.ucl.ac.uk/"
+    },
+    {
+        "name": "University of Central Lancashire",
+        "website": "http://www.uclan.ac.uk/"
+    },
+    {
+        "name": "University Campus Suffolk",
+        "website": "http://www.ucs.ac.uk/"
+    },
+    {
+        "name": "University of East Anglia",
+        "website": "http://www.uea.ac.uk/"
+    },
+    {
+        "name": "University of East London",
+        "website": "http://www.uel.ac.uk/"
+    },
+    {
+        "name": "University of Kent at Canterbury",
+        "website": "http://www.ukc.ac.uk/"
+    },
+    {
+        "name": "School of Pharmacy, University of London",
+        "website": "http://www.ulsop.ac.uk/"
+    },
+    {
+        "name": "University of Ulster",
+        "website": "http://www.ulst.ac.uk/"
+    },
+    {
+        "name": "United Medical and Dental Schools, University of London",
+        "website": "http://www.umds.ac.uk/"
+    },
+    {
+        "name": "University of North London",
+        "website": "http://www.unl.ac.uk/"
+    },
+    {
+        "name": "University of Northumbria at Newcastle",
+        "website": "http://www.unn.ac.uk/"
+    },
+    {
+        "name": "University of Wales College of Medicine",
+        "website": "http://www.uwcm.ac.uk/"
+    },
+    {
+        "name": "University of the West of England, Bristol",
+        "website": "http://www.uwe.ac.uk/"
+    },
+    {
+        "name": "University of Wales Institute, Cardiff",
+        "website": "http://www.uwic.ac.uk/"
+    },
+    {
+        "name": "University of Wales",
+        "website": "http://www.wales.ac.uk/"
+    },
+    {
+        "name": "Warnborough University",
+        "website": "http://www.warnborough.edu/"
+    },
+    {
+        "name": "University of Warwick",
+        "website": "http://www.warwick.ac.uk/"
+    },
+    {
+        "name": "University of Westminster",
+        "website": "http://www.westminster.ac.uk/"
+    },
+    {
+        "name": "William Gilbert College",
+        "website": "http://www.williamgilbert.co.uk/"
+    },
+    {
+        "name": "Wimbledon School of Art",
+        "website": "http://www.wimbledon.ac.uk/"
+    },
+    {
+        "name": "University of Wolverhampton",
+        "website": "http://www.wlv.ac.uk/"
+    },
+    {
+        "name": "University of Worcester",
+        "website": "http://www.worc.ac.uk/"
+    },
+    {
+        "name": "University of York",
+        "website": "http://www.york.ac.uk/"
+    },
+    {
+        "name": "University of Aberdeen",
+        "website": "http://www.abdn.ac.uk/"
+    },
+    {
+        "name": "University of Wales, Aberystwyth",
+        "website": "http://www.aber.ac.uk/"
+    },
+    {
+        "name": "University of Abertay Dundee",
+        "website": "http://www.abertay.ac.uk/"
+    },
+    {
+        "name": "American InterContinental University - London",
+        "website": "http://www.aiuniv.edu/"
+    },
+    {
+        "name": "Aga Khan University",
+        "website": "http://www.aku.edu/"
+    },
+    {
+        "name": "Anglia Ruskin University",
+        "website": "http://www.anglia.ac.uk/"
+    },
+    {
+        "name": "Aston University",
+        "website": "http://www.aston.ac.uk/"
+    },
+    {
+        "name": "The American University in London",
+        "website": "http://www.aul.edu/"
+    },
+    {
+        "name": "University of Wales, Bangor",
+        "website": "http://www.bangor.ac.uk/"
+    },
+    {
+        "name": "University of Bath",
+        "website": "http://www.bath.ac.uk/"
+    },
+    {
+        "name": "Birkbeck College, University of London",
+        "website": "http://www.bbk.ac.uk/"
+    },
+    {
+        "name": "British College of Osteopathic Medicine",
+        "website": "http://www.bcom.ac.uk/"
+    },
+    {
+        "name": "Birmingham City University",
+        "website": "http://www.bcu.ac.uk/"
+    },
+    {
+        "name": "University of Bedfordshire",
+        "website": "http://www.beds.ac.uk/"
+    },
+    {
+        "name": "University of Birmingham",
+        "website": "http://www.bham.ac.uk/"
+    },
+    {
+        "name": "University of Bolton",
+        "website": "http://www.bolton.ac.uk/"
+    },
+    {
+        "name": "Bournemouth University",
+        "website": "http://www.bournemouth.ac.uk/"
+    },
+    {
+        "name": "University of Bradford",
+        "website": "http://www.brad.ac.uk/"
+    },
+    {
+        "name": "London School of Jewish Studies",
+        "website": "http://www.brijnet.org/lsjs/"
+    },
+    {
+        "name": "University of Bristol",
+        "website": "http://www.bris.ac.uk/"
+    },
+    {
+        "name": "Oxford Brookes University",
+        "website": "http://www.brookes.ac.uk/"
+    },
+    {
+        "name": "Brunel University Uxbridge",
+        "website": "http://www.brunel.ac.uk/"
+    },
+    {
+        "name": "University of Brighton",
+        "website": "http://www.bton.ac.uk/"
+    },
+    {
+        "name": "University of Buckingham",
+        "website": "http://www.buck.ac.uk/"
+    },
+    {
+        "name": "Buckinghamshire New University",
+        "website": "http://www.bucks.ac.uk/"
+    },
+    {
+        "name": "University of Cambridge",
+        "website": "http://www.cam.ac.uk/"
+    },
+    {
+        "name": "Camberwell College of Arts",
+        "website": "http://www.camb.linst.ac.uk/"
+    },
+    {
+        "name": "Canterbury Christ Church University",
+        "website": "http://www.canterbury.ac.uk/"
+    },
+    {
+        "name": "Cardiff University",
+        "website": "http://www.cardiff.ac.uk/"
+    },
+    {
+        "name": "Chelsea College of Art and Design",
+        "website": "http://www.chelsea.linst.ac.uk/"
+    },
+    {
+        "name": "University of Chester",
+        "website": "http://www.chester.ac.uk/"
+    },
+    {
+        "name": "City University",
+        "website": "http://www.city.ac.uk/"
+    },
+    {
+        "name": "Courtauld Institute of Art, University of London",
+        "website": "http://www.courtauld.ac.uk/"
+    },
+    {
+        "name": "Coventry University",
+        "website": "http://www.coventry.ac.uk/"
+    },
+    {
+        "name": "Cranfield University",
+        "website": "http://www.cranfield.ac.uk/"
+    },
+    {
+        "name": "Central Saint Martins College of Art & Design",
+        "website": "http://www.csm.linst.ac.uk/"
+    },
+    {
+        "name": "University of Derby",
+        "website": "http://www.derby.ac.uk/"
+    },
+    {
+        "name": "De Montfort University Leicester",
+        "website": "http://www.dmu.ac.uk/"
+    },
+    {
+        "name": "University of Dundee",
+        "website": "http://www.dundee.ac.uk/"
+    },
+    {
+        "name": "University of Durham",
+        "website": "http://www.dur.ac.uk/"
+    },
+    {
+        "name": "Edge Hill University",
+        "website": "http://www.edgehill.ac.uk/"
+    },
+    {
+        "name": "University of Edinburgh",
+        "website": "http://www.ed.ac.uk/"
+    },
+    {
+        "name": "European School of Economics",
+        "website": "http://www.eselondon.ac.uk/"
+    },
+    {
+        "name": "University of Essex",
+        "website": "http://www.essex.ac.uk/"
+    },
+    {
+        "name": "University of Exeter",
+        "website": "http://www.ex.ac.uk/"
+    },
+    {
+        "name": "Falmouth University",
+        "website": "http://www.falmouth.ac.uk/"
+    },
+    {
+        "name": "Glasgow Caledonian University",
+        "website": "http://www.gcal.ac.uk/"
+    },
+    {
+        "name": "University of Glasgow",
+        "website": "http://www.gla.ac.uk/"
+    },
+    {
+        "name": "University of Glamorgan",
+        "website": "http://www.glam.ac.uk/"
+    },
+    {
+        "name": "University of Gloucestershire",
+        "website": "http://www.glos.ac.uk/"
+    },
+    {
+        "name": "Goldsmiths College, University of London",
+        "website": "http://www.gold.ac.uk/"
+    },
+    {
+        "name": "University of Greenwich",
+        "website": "http://www.gre.ac.uk/"
+    },
+    {
+        "name": "Glasgow School of Art",
+        "website": "http://www.gsa.ac.uk/"
+    },
+    {
+        "name": "University of Halifax, Birmingham Campus",
+        "website": "http://www.halifaxuni.ac/"
+    },
+    {
+        "name": "University of Hertfordshire",
+        "website": "http://www.herts.ac.uk/"
+    },
+    {
+        "name": "Heythrop College, University of London",
+        "website": "http://www.heythrop.ac.uk/"
+    },
+    {
+        "name": "Liverpool Hope University College",
+        "website": "http://www.hope.ac.uk/"
+    },
+    {
+        "name": "University of Huddersfield",
+        "website": "http://www.hud.ac.uk/"
+    },
+    {
+        "name": "University of Hull",
+        "website": "http://www.hull.ac.uk/"
+    },
+    {
+        "name": "Huron University USA in London",
+        "website": "http://www.huron.ac.uk/"
+    },
+    {
+        "name": "Heriot-Watt University",
+        "website": "http://www.hw.ac.uk/"
+    },
+    {
+        "name": "Imperial College London",
+        "website": "http://www.imperial.ac.uk/"
+    },
+    {
+        "name": "ifs University College",
+        "website": "http://www.ifslearning.ac.uk/"
+    },
+    {
+        "name": "Institue of Historical Research, University of London",
+        "website": "http://ihr.sas.ac.uk/"
+    },
+    {
+        "name": "Institute of Commonwealth Studies, University of London",
+        "website": "http://www.ihr.sas.ac.uk/ics/"
+    },
+    {
+        "name": "Institute of Education, University of London",
+        "website": "http://www.ioe.ac.uk/"
+    },
+    {
+        "name": "International Colleges of Islamic Science",
+        "website": "http://www.islamiccolleges.com/"
+    },
+    {
+        "name": "King's College London, University of London",
+        "website": "http://www.kcl.ac.uk/"
+    },
+    {
+        "name": "Keele University",
+        "website": "http://www.keele.ac.uk/"
+    },
+    {
+        "name": "Kingston University",
+        "website": "http://www.kingston.ac.uk/"
+    },
+    {
+        "name": "International Centre for Isclamic Science",
+        "website": "http://www.kolieh.com/"
+    },
+    {
+        "name": "University of Wales, Lampeter",
+        "website": "http://www.lamp.ac.uk/"
+    },
+    {
+        "name": "University of Lancaster",
+        "website": "http://www.lancs.ac.uk/"
+    },
+    {
+        "name": "Loughborough University",
+        "website": "http://www.lboro.ac.uk/"
+    },
+    {
+        "name": "London Business School",
+        "website": "http://www.lbs.lon.ac.uk/"
+    },
+    {
+        "name": "London College of Science & Technology",
+        "website": "http://www.lcst.ac/"
+    },
+    {
+        "name": "University of Leicester",
+        "website": "http://www.le.ac.uk/"
+    },
+    {
+        "name": "University of Leeds",
+        "website": "http://www.leeds.ac.uk/"
+    },
+    {
+        "name": "London Guildhall University",
+        "website": "http://www.lgu.ac.uk/"
+    },
+    {
+        "name": "London Institute of Management and Technology",
+        "website": "http://www.limt.co.uk/"
+    },
+    {
+        "name": "University of Lincoln",
+        "website": "http://www.lincoln.ac.uk/"
+    },
+    {
+        "name": "University of Liverpool",
+        "website": "http://www.liv.ac.uk/"
+    },
+    {
+        "name": "Liverpool John Moores University",
+        "website": "https://www.ljmu.ac.uk/"
+    },
+    {
+        "name": "Leeds Metropolitan University",
+        "website": "http://www.lmu.ac.uk/"
+    },
+    {
+        "name": "University of London",
+        "website": "http://www.lon.ac.uk/"
+    },
+    {
+        "name": "London Metropolitan University",
+        "website": "http://www.londonmet.ac.uk/"
+    },
+    {
+        "name": "London School of Business & Finance",
+        "website": "http://www.lsbf.org.uk/"
+    },
+    {
+        "name": "London School of Economics and Political Science, University of London",
+        "website": "http://www.lse.ac.uk/"
+    },
+    {
+        "name": "London School of Hygiene & Tropical Medicine, University of London",
+        "website": "http://www.lshtm.ac.uk/"
+    },
+    {
+        "name": "University of Manchester",
+        "website": "http://www.manchester.ac.uk/"
+    },
+    {
+        "name": "Middlesex University",
+        "website": "http://www.mdx.ac.uk/"
+    },
+    {
+        "name": "Imperial College School of Medicine",
+        "website": "http://www.med.ic.ac.uk/"
+    },
+    {
+        "name": "The Manchester Metropolitan University",
+        "website": "http://www.mmu.ac.uk/"
+    },
+    {
+        "name": "Napier University",
+        "website": "http://www.napier.ac.uk/"
+    },
+    {
+        "name": "University of Newcastle-upon-Tyne",
+        "website": "http://www.ncl.ac.uk/"
+    },
+    {
+        "name": "University of Wales, Newport",
+        "website": "http://www.newport.ac.uk/"
+    },
+    {
+        "name": "Newport International University",
+        "website": "http://www.niu.org.uk/"
+    },
+    {
+        "name": "University of Northampton",
+        "website": "http://www.northampton.ac.uk/"
+    },
+    {
+        "name": "University of Nottingham",
+        "website": "http://www.nottingham.ac.uk/"
+    },
+    {
+        "name": "Nottingham Trent University",
+        "website": "http://www.ntu.ac.uk/"
+    },
+    {
+        "name": "Open University",
+        "website": "http://www.open.ac.uk/"
+    },
+    {
+        "name": "University of Oxford",
+        "website": "http://www.ox.ac.uk/"
+    },
+    {
+        "name": "University of Paisley",
+        "website": "http://www.paisley.ac.uk/"
+    },
+    {
+        "name": "University of Plymouth",
+        "website": "http://www.plymouth.ac.uk/"
+    },
+    {
+        "name": "University of Portsmouth",
+        "website": "http://www.port.ac.uk/"
+    },
+    {
+        "name": "Queen Mary, University of London",
+        "website": "http://www.qmul.ac.uk/"
+    },
+    {
+        "name": "The Queen's University Belfast",
+        "website": "http://www.qub.ac.uk/"
+    },
+    {
+        "name": "Royal Academy of Music, University of London",
+        "website": "http://www.ram.ac.uk/"
+    },
+    {
+        "name": "Royal College of Art",
+        "website": "http://www.rca.ac.uk/"
+    },
+    {
+        "name": "Royal College of Music, University of London",
+        "website": "http://www.rcm.ac.uk/"
+    },
+    {
+        "name": "University of Reading",
+        "website": "http://www.rdg.ac.uk/"
+    },
+    {
+        "name": "Royal Free Hospital School of Medicine, University of London",
+        "website": "http://www.rfhsm.ac.uk/"
+    },
+    {
+        "name": "The Robert Gordon University",
+        "website": "http://www.rgu.ac.uk/"
+    },
+    {
+        "name": "Royal Holloway and Bedford New College",
+        "website": "http://www.royalholloway.ac.uk/"
+    },
+    {
+        "name": "Richmond University - The American International University in London",
+        "website": "http://www.richmond.ac.uk/"
+    },
+    {
+        "name": "Roehampton University of Surrey",
+        "website": "http://www.roehampton.ac.uk/"
+    },
+    {
+        "name": "University of Salford",
+        "website": "http://www.salford.ac.uk/"
+    },
+    {
+        "name": "Institute of Advanced Legal Studies, University of London",
+        "website": "http://www.sas.ac.uk/ials/"
+    },
+    {
+        "name": "Institute of Classical Studies, University of London",
+        "website": "http://www.sas.ac.uk/icls/"
+    },
+    {
+        "name": "Institute of Germanic Studies, University of London",
+        "website": "http://www.sas.ac.uk/igs/"
+    },
+    {
+        "name": "Institute of Latin American Studies, University of London",
+        "website": "http://www.sas.ac.uk/ilas/"
+    },
+    {
+        "name": "Warburg Institute, University of London",
+        "website": "http://www.sas.ac.uk/warburg/"
+    },
+    {
+        "name": "South Bank University",
+        "website": "http://www.sbu.ac.uk/"
+    },
+    {
+        "name": "Schiller International University, London",
+        "website": "http://www.schillerlondon.ac.uk/"
+    },
+    {
+        "name": "Stratford College London",
+        "website": "http://www.sclondon.ac/"
+    },
+    {
+        "name": "Saint George's Hospital Medical School, University of London",
+        "website": "http://www.sghms.ac.uk/"
+    },
+    {
+        "name": "University of Sheffield",
+        "website": "http://www.shef.ac.uk/"
+    },
+    {
+        "name": "Sheffield Hallam University",
+        "website": "http://www.shu.ac.uk/"
+    },
+    {
+        "name": "Swansea Metropolitan University",
+        "website": "http://www.smu.ac.uk/"
+    },
+    {
+        "name": "School of Oriental and African Studies, University of London",
+        "website": "http://www.soas.ac.uk/"
+    },
+    {
+        "name": "Southampton Solent University",
+        "website": "http://www.solent.ac.uk/"
+    },
+    {
+        "name": "Sotheby\u00b4s Institute of Art - London",
+        "website": "http://www.sothebysinstitutelondon.com/"
+    },
+    {
+        "name": "University of Southampton",
+        "website": "http://www.southampton.ac.uk/"
+    },
+    {
+        "name": "School of Slavonic and East European Studies, University of London",
+        "website": "http://www.ssees.ac.uk/"
+    },
+    {
+        "name": "Staffordshire University",
+        "website": "http://www.staffs.ac.uk/"
+    },
+    {
+        "name": "University of St. Andrews",
+        "website": "https://www.st-andrews.ac.uk/"
+    },
+    {
+        "name": "University of Stirling",
+        "website": "http://www.stir.ac.uk/"
+    },
+    {
+        "name": "St.Patrick's International College, London",
+        "website": "http://www.st-patricks.ac.uk/"
+    },
+    {
+        "name": "University of Strathclyde",
+        "website": "http://www.strath.ac.uk/"
+    },
+    {
+        "name": "University of Sunderland",
+        "website": "http://www.sunderland.ac.uk/"
+    },
+    {
+        "name": "University of Surrey",
+        "website": "http://www.surrey.ac.uk/"
+    },
+    {
+        "name": "University of Sussex",
+        "website": "http://www.sussex.ac.uk/"
+    },
+    {
+        "name": "University of Wales, Swansea",
+        "website": "http://www.swan.ac.uk/"
+    },
+    {
+        "name": "Trinity College of Music",
+        "website": "http://www.tcm.ac.uk/"
+    },
+    {
+        "name": "University of Teesside",
+        "website": "http://www.tees.ac.uk/"
+    },
+    {
+        "name": "Trinity College Carmarthen",
+        "website": "http://www.trinity-cm.ac.uk/"
+    },
+    {
+        "name": "Thames Valley University",
+        "website": "http://www.tvu.ac.uk/"
+    },
+    {
+        "name": "University College London, University of London",
+        "website": "http://www.ucl.ac.uk/"
+    },
+    {
+        "name": "University of Central Lancashire",
+        "website": "http://www.uclan.ac.uk/"
+    },
+    {
+        "name": "University Campus Suffolk",
+        "website": "http://www.ucs.ac.uk/"
+    },
+    {
+        "name": "University of East Anglia",
+        "website": "http://www.uea.ac.uk/"
+    },
+    {
+        "name": "University of East London",
+        "website": "http://www.uel.ac.uk/"
+    },
+    {
+        "name": "University of Kent at Canterbury",
+        "website": "http://www.ukc.ac.uk/"
+    },
+    {
+        "name": "School of Pharmacy, University of London",
+        "website": "http://www.ulsop.ac.uk/"
+    },
+    {
+        "name": "University of Ulster",
+        "website": "http://www.ulst.ac.uk/"
+    },
+    {
+        "name": "United Medical and Dental Schools, University of London",
+        "website": "http://www.umds.ac.uk/"
+    },
+    {
+        "name": "University of North London",
+        "website": "http://www.unl.ac.uk/"
+    },
+    {
+        "name": "University of Northumbria at Newcastle",
+        "website": "http://www.unn.ac.uk/"
+    },
+    {
+        "name": "University of Wales College of Medicine",
+        "website": "http://www.uwcm.ac.uk/"
+    },
+    {
+        "name": "University of the West of England, Bristol",
+        "website": "http://www.uwe.ac.uk/"
+    },
+    {
+        "name": "University of Wales Institute, Cardiff",
+        "website": "http://www.uwic.ac.uk/"
+    },
+    {
+        "name": "University of Wales",
+        "website": "http://www.wales.ac.uk/"
+    },
+    {
+        "name": "Warnborough University",
+        "website": "http://www.warnborough.edu/"
+    },
+    {
+        "name": "University of Warwick",
+        "website": "http://www.warwick.ac.uk/"
+    },
+    {
+        "name": "University of Westminster",
+        "website": "http://www.westminster.ac.uk/"
+    },
+    {
+        "name": "William Gilbert College",
+        "website": "http://www.williamgilbert.co.uk/"
+    },
+    {
+        "name": "Wimbledon School of Art",
+        "website": "http://www.wimbledon.ac.uk/"
+    },
+    {
+        "name": "University of Wolverhampton",
+        "website": "http://www.wlv.ac.uk/"
+    },
+    {
+        "name": "University of Worcester",
+        "website": "http://www.worc.ac.uk/"
+    },
+    {
+        "name": "University of York",
+        "website": "http://www.york.ac.uk/"
+    }
+]
